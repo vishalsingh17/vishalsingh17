@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 <h3 align="center">I'm a Data Science Enthusiast👨‍💻</h3>
 <h6 align="left">🏅 I recently completed my Data Science studies from iNeuron.ai</br>
+🎓 I have completed my MCA from IGNOU</br>
 ⏳ I am constantly learning and keep myself updated with the latest technologies in AI.</br>
 🤔 My interests are in Data Science, Web Development and in Embedded Systems.</br>
 💬 Ask me about anything, I am happy to help.</br>
