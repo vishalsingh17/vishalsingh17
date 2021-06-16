@@ -63,7 +63,9 @@
 <h4 align="left">Softwares:</h4>
 <p align="left"> 
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   </a>
+ <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+ <a href="https://www.anaconda.com/" target="_blank"> <img src="https://assets-cdn.anaconda.com/assets/_1200x630_crop_center-center_82_none/anaconda-meta.jpg?mtime=20200506175707&focal=none&tmtime=20210216163404" alt="anaconda" width="40" height="40"/> </a>
+
   
  <h4 align="left">Web Development:</h4>
 <p align="left">
