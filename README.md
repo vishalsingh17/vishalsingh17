@@ -73,9 +73,12 @@
  
 
 
-[![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalsingh17)](https://github.com/vishalsingh17/github-readme-stats)
+[![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalsingh17&hide=java,html,css&theme=radical)](https://github.com/vishalsingh17/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh17&hide=java,html,css&theme=dracula)](https://github.com/vishalsingh17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh17&hide=java,html,css&theme=tokyonight)](https://github.com/vishalsingh17/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh17&" alt="vishalsingh17" /></p>
+<!-- [![Vishal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vishalsingh17)](https://github.com/vishalsingh17/github-readme-stats&show_icons=true&theme=radical) -->
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh17&&hide=java,html,css&theme=radical" alt="vishalsingh17" /></p>
