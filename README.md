@@ -6,8 +6,8 @@
 🤔 My interests are in Data Science, Web Development and in Embedded Systems.</br>
 💬 Ask me about anything, I am happy to help.</br>
 📫 Please email via vishal170997@gmail.com to reach me.</br>
-🌍 Vist my website  <a href="https://vishalsingh17.github.io/Portfolio/">here</a>.</br>
-📝 See my Resume <a href="https://drive.google.com/file/d/1aVLD6t99yF2TcgUkG-lPpMQRqg1-lxU6/view?usp=sharing">here</a> to get more info.</br></h6>
+🌍 Please vist my <a href="https://vishalsingh17.github.io/Portfolio/">website</a>.</br>
+📝 See my <a href="https://drive.google.com/file/d/1aVLD6t99yF2TcgUkG-lPpMQRqg1-lxU6/view?usp=sharing">Resume</a> to get more info.</br></h6>
 
 
 
