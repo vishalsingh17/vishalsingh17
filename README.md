@@ -31,7 +31,7 @@
   
  <h4 align="left">ML/DL:</h4>
 <p align="left">
-<a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/> </a>
  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
@@ -46,6 +46,7 @@
 <p align="left"> 
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+ <a href="https://streamlit.io/" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="40" height="40"/> </a>
   
  <h4 align="left">Clouds:</h4>
 <p align="left">
@@ -70,7 +71,7 @@
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>       </a>   </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>       </p>
-  <a href="https://streamlit.io/" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="40" height="40"/> </a>
+ 
 
 
 [![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalsingh17&hide=java,html,css&theme=radical)](https://github.com/vishalsingh17/github-readme-stats)
