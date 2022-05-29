@@ -80,6 +80,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh17&hide=java,html,css&theme=tokyonight)](https://github.com/vishalsingh17/github-readme-stats)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q65nb6apphdlpxzdbclr6zoemi&cover_image=true&theme=karaoke)](https://spotify-github-profile.vercel.app/api/view?uid=31q65nb6apphdlpxzdbclr6zoemi&redirect=true)
 <!-- [![Vishal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vishalsingh17)](https://github.com/vishalsingh17/github-readme-stats&show_icons=true&theme=radical) -->
 
 
