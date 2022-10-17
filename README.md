@@ -85,5 +85,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh17&&hide=java,html,css&theme=radical" alt="vishalsingh17" /></p>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q65nb6apphdlpxzdbclr6zoemi&cover_image=true&theme=novatorem&bar_color=ef0b0b&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31q65nb6apphdlpxzdbclr6zoemi&redirect=true)
