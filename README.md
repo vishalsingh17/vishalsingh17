@@ -3,7 +3,7 @@
 <h6 align="left">🏅 I recently completed my Data Science studies from iNeuron.ai</br>
 🎓 I have completed my MCA from IGNOU</br>
 ⏳ I am constantly learning and keep myself updated with the latest technologies in AI.</br>
-🤔 My interests are in Data Science, Web Development and in Embedded Systems.</br>
+🤔 My interests are in Data Science, Big Data and MLOps based Systems.</br>
 💬 Ask me about anything, I am happy to help.</br>
 📫 Please email via vishal170997@gmail.com to reach me.</br>
 🌍 Please vist my <a href="https://vishalsingh17.github.io/vs17-portfolio/">website</a>.</br>
