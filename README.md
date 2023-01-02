@@ -77,12 +77,6 @@
 
 [![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalsingh17&hide=java,html,css&theme=radical)](https://github.com/vishalsingh17/github-readme-stats)
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/vishalsingh17/count.svg" />
-</p>
-
-<img src="stats.gif" width="90%"><br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh17&hide=java,html,css&theme=tokyonight)](https://github.com/vishalsingh17/github-readme-stats)
 
@@ -91,3 +85,10 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh17&&hide=java,html,css&theme=radical" alt="vishalsingh17" /></p>
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/vishalsingh17/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
