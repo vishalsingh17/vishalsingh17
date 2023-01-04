@@ -75,7 +75,7 @@
  
 
 
-[![Vishal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vishalsingh17&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/vishalsingh17/github-readme-stats#gh-dark-mode-only)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh17&hide=java,html,css&theme=tokyonight)](https://github.com/vishalsingh17/github-readme-stats)
