@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 <h3 align="center">I'm a Data Science Enthusiast👨‍💻</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishalsingh17&label=Profile%20views&color=0e75b6&style=flat" alt="Git Stats" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalsingh17" alt="Git Stats" /></a> </p>
 <h6 align="left">🏅 I recently completed my Data Science studies from iNeuron.ai</br>
 🎓 I have completed my MCA from IGNOU</br>
 ⏳ I am constantly learning and keep myself updated with the latest technologies in AI.</br>
@@ -80,12 +83,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh17&hide=java,html,css&theme=tokyonight)](https://github.com/vishalsingh17/github-readme-stats)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalsingh17&show_icons=true&locale=en" alt="vishalsingh17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh17&&hide=java,html,css&theme=radical" alt="vishalsingh17" /></p>
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/vishalsingh17/count.svg" />
-</p>
-
-<img src="stats.gif" width="90%"><br/><br/>
