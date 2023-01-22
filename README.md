@@ -2,6 +2,16 @@
 <h3 align="center">I'm a Data Science Enthusiast👨‍💻</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishalsingh17&label=Profile%20views&color=0e75b6&style=flat" alt="Git Stats" /> </p>
 
+<br>
+<h2 align="left">🚀 Connect with me:</h3>
+<p align="center">
+<a href="https://www.hackerrank.com/vishalsingh17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="[HackerRank](https://www.hackerrank.com/vishalsingh17)" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishalsingh1719/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[LinkedIn](https://www.linkedin.com/in/vishalsingh1719/)" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/vishalsingh17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="[Kaggle](https://www.kaggle.com/vishalsingh17)" height="30" width="40" /></a>
+<a href="https://topmate.io/vishalsingh17" target="blank"><img align="center" src="https://user-images.githubusercontent.com/55878408/213914719-997ca890-b60f-41bb-a41d-7c56adb57d6d.jpg" alt="[Topmate](https://topmate.io/vishalsingh17)" height="30" width="40" /></a>
+</p>
+<br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalsingh17" alt="Git Stats" /></a> </p>
 <h6 align="left">🏅 I recently completed my Data Science studies from iNeuron.ai</br>
 🎓 I have completed my MCA from IGNOU</br>
