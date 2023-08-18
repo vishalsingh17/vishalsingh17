@@ -20,7 +20,7 @@
 💬 Ask me about anything, I am happy to help.</br>
 📫 Please email via vishal170997@gmail.com to reach me.</br>
 🌍 Please vist my <a href="https://vishalsingh17.github.io/vs17-portfolio/">website</a>.</br>
-📝 See my <a href="[https://drive.google.com/file/d/1LGvIb1T8gE9Xql_OTInK7ydwvkeYl-Rx/view?usp=sharing](https://drive.google.com/file/d/18gxEl8Jc5XW5KowIEEoxmVaAWgmFWVp2/view?usp=sharing)">Resume</a> to get more info.</br></h6>
+📝 See my <a href="https://drive.google.com/file/d/18gxEl8Jc5XW5KowIEEoxmVaAWgmFWVp2/view?usp=sharing">Resume</a> to get more info.</br></h6>
 
 
 
