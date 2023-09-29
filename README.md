@@ -42,6 +42,8 @@ Matplotlib | Seaborn | TFX
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishalsingh1719/) 
 [![Topmate](https://img.shields.io/badge/Topmate-%230077B5.svg?logo=topmate&logoColor=white)](https://topmate.io/vishalsingh17)
+[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=resume&logoColor=white)](https://flowcv.com/resume/wio8g0iudu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://flowcv.me/vishal17)
 
 
 ## 📊 GitHub Stats:
