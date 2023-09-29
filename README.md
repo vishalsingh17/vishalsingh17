@@ -21,7 +21,7 @@ MySQL | MongoDB | Cassandra | HBase
 <b> 🧬 Version Control: </b><br>
 Git | DVC
 
-<b> ⏰ Schedulers: </b><br>
+<b> ⏰ Workflow Management: </b><br>
 Airflow | Mage
 
 <b> ☁️ AWS Services: </b> <br>
